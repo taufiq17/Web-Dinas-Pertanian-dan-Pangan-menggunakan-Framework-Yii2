@@ -1,0 +1,223 @@
+/* === color === */
+
+a, a:hover,a:focus,a:active, strike, .post-meta span a:hover, 
+ul.meta-post li a:hover, ul.cat li a:hover, ul.recent li h6 a:hover, ul.portfolio-categ li.active a, ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.related-post li h4 a:hover, span.highlight,article .post-heading h3 a:hover,
+.navbar .nav > .active > a,.navbar .nav > .active > a:hover,.navbar .nav > li > a:hover,.navbar .nav > li > a:focus,.navbar .nav > .active > a:focus, .validation  { 
+	color: rgb(192, 152, 65);
+}
+
+.highlight {
+  background-color:  rgb(192, 152, 65);
+}
+
+
+.navbar-brand span{
+    color:  rgb(192, 152, 65);
+}
+
+header .nav li a:hover,
+header .nav li a:focus,
+header .nav li.active a,
+header .nav li.active a:hover,
+header .nav li a.dropdown-toggle:hover,
+header .nav li a.dropdown-toggle:focus,
+header .nav li.active ul.dropdown-menu li a:hover,
+header .nav li.active ul.dropdown-menu li.active a{
+	color: rgb(192, 152, 65);
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+	color: rgb(192, 152, 65);
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+	color: rgb(192, 152, 65);
+}	
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+	color: rgb(192, 152, 65);
+}
+/* === background color === */
+
+.custom-carousel-nav.right:hover, .custom-carousel-nav.left:hover, 
+.pagination ul > .active > a:hover,
+.pagination ul > .active > a,
+.pagination ul > .active > span,
+.flex-control-nav li a:hover, 
+.flex-control-nav li a.active {
+  background-color:  rgb(192, 152, 65);
+}
+
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight,.cbp-l-filters-button .cbp-filter-counter {
+    background-color:  rgb(192, 152, 65);
+}
+
+.breadcrumb {
+  background-color:  rgb(192, 152, 65);
+}
+
+/* === border color === */
+.pagination ul > li.active > a,
+.pagination ul > li.active > span, a.thumbnail:hover, input[type="text"].search-form:focus {
+	border:1px solid  rgb(192, 152, 65);
+}
+
+.cbp-l-filters-button .cbp-filter-counter:before {
+    border-top: 4px solid  rgb(192, 152, 65);
+}
+
+textarea:focus,
+.form-control:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color:  rgb(192, 152, 65);
+}
+
+input:focus {
+	border-color:  rgb(192, 152, 65);
+}
+
+
+#sendmessage {
+	color:  rgb(192, 152, 65);
+}
+
+.pullquote-left {
+	border-left:5px solid  rgb(192, 152, 65);
+}
+
+.pullquote-right {
+	border-right:5px solid  rgb(192, 152, 65);
+}
+
+/* cta */
+
+.cta-text h2 span {
+	color:  rgb(192, 152, 65);
+}
+
+ul.clients li:hover {
+	border:4px solid  rgb(192, 152, 65);
+}
+
+
+/* buttons */
+.btn-dark:hover,.btn-dark:focus,.btn-dark:active  {
+  background:  rgb(192, 152, 65);
+  border:1px solid  rgb(192, 152, 65);
+}
+
+.btn-theme {
+  border:1px solid  rgb(192, 152, 65);
+  background:  rgb(192, 152, 65);
+}
+
+/* modal styled */
+.modal.styled .modal-header {
+  background-color:  rgb(192, 152, 65);
+}
+
+
+/* blog */
+.post-meta {
+	border-top:4px solid  rgb(192, 152, 65);
+}
+
+.post-meta .comments a:hover  {
+	color: rgb(192, 152, 65);
+}
+
+.widget ul.tags li a:hover {
+	background:  rgb(192, 152, 65);
+}
+
+.recent-post .text h5 a:hover{
+	color: rgb(192, 152, 65);
+}
+
+/* pricing box */
+
+.pricing-box-alt.special .pricing-heading {
+	background:  rgb(192, 152, 65);
+}
+
+
+/* portfolio */
+.cbp-l-filters-dropdownWrap {
+    background:  rgb(192, 152, 65);
+}
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+    background-color:  rgb(192, 152, 65);
+    border:1px solid  rgb(192, 152, 65);
+}
+.cbp-l-filters-alignCenter .cbp-filter-item:hover {
+    color:  rgb(192, 152, 65);
+}
+
+.cbp-l-filters-alignCenter .cbp-filter-item-active {
+    color:  rgb(192, 152, 65) !important;
+}
+.cbp-l-filters-alignRight .cbp-filter-counter {
+    background: none repeat scroll 0 0  rgb(192, 152, 65);
+}
+.cbp-l-filters-list .cbp-filter-item {
+    border-color:  rgb(192, 152, 65);
+}
+.cbp-l-filters-list .cbp-filter-item-active {
+    background-color: rgb(192, 152, 65);
+}
+
+.cbp-popup-singlePage .cbp-popup-navigation-wrap {
+    background-color:  rgb(192, 152, 65);
+}
+.cbp-popup-singlePage .cbp-l-project-details-visit {
+    background-color:  rgb(192, 152, 65);
+}
+
+/* pagination */
+#pagination a:hover {
+    background:  rgb(192, 152, 65);
+}
+
+/* pricing box */
+.pricing-box.special .pricing-offer{
+	background:  rgb(192, 152, 65);
+}
+
+
+/* fontawesome icons */
+.icon-square:hover,
+.icon-rounded:hover,
+.icon-circled:hover {
+    background-color:  rgb(192, 152, 65);
+}
+[class^="icon-"].active,
+[class*=" icon-"].active {
+    background-color:  rgb(192, 152, 65);
+}
+
+
+/* flexslider */
+#featured .flexslider .slide-caption {
+	border-left:5px solid  rgb(192, 152, 65);
+}
+
+/* footer */
+
